@@ -1,11 +1,9 @@
 # 👋 Hi! I'm Amirhossein
-
 front-end developer passionate about mastering modern web technologies.
 
 ## 📝 About Me
 - 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
 - 🌱 Always exploring new tools and technologies.
-- 
 ## 🧠 Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
