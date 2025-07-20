@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Amirhossein
+# 👋 Hi! I'm Amirhossein
 
-I'm a front-end developer with hands-on experience in building web applications. Passionate about crafting user-friendly interfaces and learning cutting-edge technologies.
+front-end developer passionate about mastering modern web technologies.
 
 ## 🧠 Skills
 
