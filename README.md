@@ -20,5 +20,4 @@ I'm a front-end developer with hands-on experience in building web applications.
 ## 📝 About Me
 
 - 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
-- 🧩 I love solving technical challenges and growing every day.
 - 🌱 Always exploring new tools and technologies.
