@@ -3,7 +3,6 @@
 front-end developer passionate about mastering modern web technologies.
 
 ## 📝 About Me
-
 - 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
 - 🌱 Always exploring new tools and technologies.
 - 
