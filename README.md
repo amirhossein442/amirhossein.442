@@ -2,6 +2,11 @@
 
 front-end developer passionate about mastering modern web technologies.
 
+## 📝 About Me
+
+- 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
+- 🌱 Always exploring new tools and technologies.
+- 
 ## 🧠 Skills
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -17,7 +22,4 @@ front-end developer passionate about mastering modern web technologies.
 ![Advanced JavaScript](https://img.shields.io/badge/-Advanced_JS-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![Advanced React](https://img.shields.io/badge/-Advanced_React-61DAFB?logo=react&logoColor=black&style=flat)
 
-## 📝 About Me
 
-- 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
-- 🌱 Always exploring new tools and technologies.
