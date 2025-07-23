@@ -1,5 +1,6 @@
 # 👋 Hi! I'm Amirhossein
-Interested in learning front-end
+
+I am a Frontend Developer eager to expand my skills in this field.
 
 ## 📝 About Me
 - 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
