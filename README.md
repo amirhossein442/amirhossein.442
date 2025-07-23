@@ -7,7 +7,7 @@ front-end developer passionate about mastering modern web technologies.
 ## 🧠 Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Tailwind CSS Logo](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg)
+[![Tailwind CSS Logo](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg)](https://tailwindcss.com)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
