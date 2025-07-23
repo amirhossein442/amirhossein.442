@@ -1,10 +1,8 @@
 # 👋 Hi! I'm Amirhossein
-
 I am a Frontend Developer eager to expand my skills in this field.
 
 ## 📝 My Experience:
 - 💻 Building Responsive and Modern Websites: I have designed and implemented websites using HTML, CSS, and the Tailwind CSS library.
-
 - 🌱 Developing Interactive Web Applications with React: I have hands-on experience in building practical platforms like e-commerce sites and video streaming platforms using React, including working with Components, useState, and API Fetching.
 ### 🧠 Skills
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
