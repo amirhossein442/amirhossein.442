@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Amirhossein
 Interested in learning front-end
 
-📝 About Me
+#📝 About Me
 - 💻 I’ve built several projects using HTML, CSS, JavaScript, and React.
 - 🌱 Always exploring new tools and technologies.
 🧠 Skills
